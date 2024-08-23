@@ -67,9 +67,9 @@ CREATE TABLE `checkout` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 -- INSERT INTO `checkout` VALUES 
--- 	(1, 'example1user@email.com', '2022-05-22', '2022-06-25', 1),
---     (2, 'example2user@email.com', '2022-05-22', '2022-06-26', 1),
---     (3, 'example1user@email.com', '2022-05-22', '2022-06-01', 2);
+-- 	(1, 'example1user@email.com', '2024-05-22', '2024-08-25', 1),
+--     (2, 'example2user@email.com', '2024-05-22', '2024-08-26', 1),
+--     (3, 'example1user@email.com', '2024-05-22', '2024-08-01', 2);
     
     
 
